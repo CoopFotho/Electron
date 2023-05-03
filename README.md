@@ -6,10 +6,4 @@
 [![](https://img.shields.io/badge/Supports-Windows%2010%2F11-blueviolet)]()
 
 ---
-
-[***Download Lastest Version (v0.0.1)***]()
-
----
-
-#
 ![banner](https://user-images.githubusercontent.com/83347856/157363635-89eeb225-c17f-4e9f-b55f-6d31dd0d6889.gif)
