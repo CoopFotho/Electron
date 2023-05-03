@@ -7,7 +7,7 @@
 
 ---
 
-[***Download Lastest Version (v0.0.1)***](https://github.com/CoopFotho/Electron/raw/main/releases/Electron%20Terminal%20v0.0.1.zip)
+[***Download Lastest Version (v0.0.1)***]()
 
 ---
 
